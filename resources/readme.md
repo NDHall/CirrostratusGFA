@@ -6,7 +6,9 @@ This reposistory is part of wider effort to create and maintain detailed and con
 
 -----------------------------------------
 
-## Uniref_50 
+## UniRef50 version 2021_02
+### About
+released 07-Apr-2021 see additional information [here](https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2021_02/relnotes.txt) and tarball available [release_2021_02/uniref](https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2021_02/uniref/). It is a respectable size (152GB) even when compressed. 
 
 ## Select Uniprot Accesions
 ### About:
