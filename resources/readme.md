@@ -10,4 +10,4 @@ This reposistory is part of wider effort to create and maintain detailed and con
 
 ## Select Uniprot Accesions
 ### About:
-I have selected 36 uniprot accession that span green plants ([link](https://github.com/NDHall/CirrostratusGFA/blob/main/resources/uniprot_table.tsv))
+I have selected 36 uniprot accession that span green plants ([link](https://github.com/NDHall/CirrostratusGFA/blob/main/resources/uniprot_table.tsv)) the version numbers for each set of meta-data can be found in [uniprot_versions.txt](https://github.com/NDHall/CirrostratusGFA/blob/main/resources/uniprot_versions.txt)
