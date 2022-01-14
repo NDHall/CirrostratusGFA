@@ -18,7 +18,7 @@ I have selected 36 uniprot accession that span green plants ([link](https://gith
 ### About: 
 We are using iprscan/5.47.82.0.Py3 and database v82.
 
-# NCBI Accessions
+## NCBI Accessions
 ### A select set of proteins downloaded from NCBI and curated to include proteins with links to GeneIds. With the exception of _Avena sativa_ which was only available through COGE. Documentation on production of these databases vailable on request.
 * [curation notes](https://docs.google.com/spreadsheets/d/1G_QFUXiFlAi772adg_6x7Mjv_xOhdsAK/edit?usp=sharing&ouid=110533873252875230607&rtpof=true&sd=true)
 * [seqs](https://drive.google.com/file/d/1Gq7ADthvLnPCAWeRlayrsiC2sdDW6E1F/view?usp=sharing)
